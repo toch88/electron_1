@@ -1,0 +1,22 @@
+{
+  "name": "serial_port_electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.18.0",
+    "browser-window": "^0.4.0",
+    "electron-prebuilt": "^1.4.13",
+    "electron-rebuild": "^1.6.0",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.7.1"
+  }
+}
