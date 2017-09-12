@@ -5,7 +5,7 @@ const url = require('url')
 
 app.on('ready', ()=>{
     var mainWindow = new BrowserWindow({
-        width:500,
+        width:501,
         height:500
     })
 })
